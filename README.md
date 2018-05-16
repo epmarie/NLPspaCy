@@ -10,3 +10,5 @@ Directions for workshop:
 5) Run `cd C:/Users/epmarie/Downloads/IntroNLP-master` (but change "epmarie" to your uniqname)
 6) Run `jupyter notebook`
 7) Open the "IntroNLP.ipynb" notebook
+
+If you will be following along on your own computer, please ensure that all packages have been installed. Also, be sure to download the large language model for spaCy by running the `python -m spacy download en_core_web_lg` command. Note: this is rather large and may take a minute to download.
